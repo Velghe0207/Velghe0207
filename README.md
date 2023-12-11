@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Velghe0207
+- 👀 I’m interested in Programming, Tech, Soccer,...
+- 🌱 I’m currently learning Java, JavaScript, Shell, Python, HTML, CSS
+- 📫 How to reach me: emilevelghe@gmail.com
